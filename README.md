@@ -32,11 +32,11 @@
 
  
 
-  -  `STUDENTS`: 批量打卡的学号、地址（用空格分隔）
+  -  `STUDENTS`: 批量打卡的学号、地址（用空格分隔）,如果多人请换行
     ![image](https://user-images.githubusercontent.com/97134659/185937224-1c8bf153-ea29-4141-ba1b-58537d2e4eb5.png)
 
 
-   -  `A_NAMES`: 批量打卡的姓名
+   -  `A_NAMES`: 批量打卡的姓名，换行下一位
    ![image](https://user-images.githubusercontent.com/97134659/185920450-98c06de6-4ffb-45df-bc0a-527102738e42.png)
 
 
